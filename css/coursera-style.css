@@ -1,0 +1,40 @@
+/* ********FOR LARGE SCREEN *********/
+@media(min-width:576px)
+{
+    .myul{
+        display: none;
+    }
+}
+@media(max-width:576px){
+    .row{
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+.row{
+    margin-top: 20px;
+}
+.Mainheading{
+    margin-top: 15px;
+}
+h3{
+    margin-top: 3px;
+}
+.paneer-row{
+    background: #e07f2d;
+    color: black;
+}
+.rice-row{
+    background: #2688d0;
+    color: black;
+}
+.sushi-row{
+    background: #ea0c2e;
+    color: black;
+}
+#back-to{
+    float: right;
+    color: #450b0b;
+    font-style: italic;
+}
+
